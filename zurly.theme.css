@@ -1,16 +1,3 @@
-/**
- * @name zurly
- * @description Allows you to customize Discord's native Color Scheme.
- * @author DevilBro
- * @version 1.0.0
- * @authorId 278543574059057154
- * @invite Jx3TjNS
- * @donate https://www.paypal.me/MircoWittrien
- * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
- * @BDEditor DiscordRecolor
-*/
 
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
@@ -34,7 +21,5 @@
   --backgroundfloating: 0,0,0;
   --settingsicons: 1;
 }
-
-/* Any custom CSS below here */
 
 
